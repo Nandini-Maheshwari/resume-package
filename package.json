@@ -1,0 +1,28 @@
+{
+  "name": "nandinim04",
+  "version": "1.0.1",
+  "description": "Nandini Maheshwari's professional resume as an npm package",
+  "main": "index.js",
+  "bin": {
+    "nandinim04": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "portfolio",
+    "professional",
+    "fullstack",
+    "developer",
+    "nandini",
+    "maheshwari"
+  ],
+  "author": "Nandini Maheshwari <nandinim1204@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "boxen": "^5.1.2"
+  }
+}
